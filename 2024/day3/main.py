@@ -28,9 +28,4 @@ def part2(text):
         print(instruction.groupdict())
     return result
 
-  
-
-        
-
-
 print(part2(text))
